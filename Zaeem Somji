@@ -1,0 +1,5 @@
+<div style="white-space:pre-wrap;font-family:Consolas;color:#d8dee9;background-color:#303841;-moz-tab-size:4;tab-size:4;">import turtle</div>
+<div style="white-space:pre-wrap;font-family:Consolas;color:#d8dee9;background-color:#303841;-moz-tab-size:4;tab-size:4;">wn = turtle.Screen()</div>
+<div style="white-space:pre-wrap;font-family:Consolas;color:#d8dee9;background-color:#303841;-moz-tab-size:4;tab-size:4;">wn.title("pong by him")</div>
+<div style="white-space:pre-wrap;font-family:Consolas;color:#d8dee9;background-color:#303841;-moz-tab-size:4;tab-size:4;">wn.bgcolor("black")</div>
+<div style="white-space:pre-wrap;font-family:Consolas;color:#d8dee9;background-color:#303841;-moz-tab-size:4;tab-size:4;">wn.setup(width=800, height=600)</div>
